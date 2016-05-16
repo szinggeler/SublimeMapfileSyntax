@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+#.  JOIN: http://www.mapserver.org/mapfile/join.html
+#.  CONNECTION [string]|CONNECTIONTYPE [csv|mysql|postgresql]|FOOTER [filename]|FROM [column]|
+#.  HEADER [filename]|NAME [string]|TABLE [filename|tablename]|TEMPLATE [filename]|TO [column]|
+#.  TYPE [ONE-TO-ONE|ONE-TO-MANY]
+JOIN
+	NAME "${1:join name}"
+    CONNECTIONTYPE ${2:POSTGRESQL|MYSQL|CSV}
+    CONNECTION "host=${3:127.0.0.1} port=${4:5432} user=${5:usr} password=${6:pw} dbname=${7:joindb}"
+    TABLE "${8:tablename}"
+    FROM "${9:column_from}"
+    TO "${10:column_to}"
+    TYPE ${11:ONE-TO-ONE|ONE-TO-MANY}
+END # JOIN ${1:join name}
+]]></content>
+	<tabTrigger>join</tabTrigger>
+	<scope>source.map</scope>
+	<description>snippet JOIN..END</description>
+</snippet>

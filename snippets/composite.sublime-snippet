@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+#.  COMPOSITE: http://www.mapserver.org/mapfile/composite.html
+#.  OPACITY [integer]|COMPOP [clear|color-burn|color-dodge|contrast*|darken|
+#.  difference|dst|dst-atop|dst-in|dst-out|dst-over|exclusion|hard-light|invert*|
+#.  invert-rgb*|lighten|minus*|multiply|overlay|plus|screen|soft-light|src|
+#.  src-atop|src-in|src-out|src-over|xor]
+COMPOSITE
+	OPACITY ${1:100}
+	COMPOP ${2:"src-over"}
+END # COMPOSITE
+]]></content>
+	<tabTrigger>composite</tabTrigger>
+	<scope>source.map</scope>
+	<description>snippet COMPOSITE..END</description>
+</snippet>
