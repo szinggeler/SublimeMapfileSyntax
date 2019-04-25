@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+#.  GRID: http://www.mapserver.org/mapfile/grid.html
+#.  LABELFORMAT [DD|DDMM|DDMMSS|C format string]|MINARCS [double]|MININTERVAL [double]|
+#.  MAXINTERVAL [double]|MINSUBDIVIDE [double]|MAXSUBDIVIDE [double]
+GRID
+	LABELFORMAT "${1:%g°}"
+END # GRID
+]]></content>
+	<tabTrigger>grid</tabTrigger>
+	<scope>source.map</scope>
+	<description>snippet GRID..END</description>
+</snippet>

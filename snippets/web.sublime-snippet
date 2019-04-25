@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+#.  WEB: http://www.mapserver.org/mapfile/web.html
+#.  BROWSEFORMAT [mime-type]|EMPTY [url]|ERROR [url]|FOOTER [filename]|HEADER [filename]|
+#.  IMAGEPATH [path]|IMAGEURL [path]|LEGENDFORMAT [mime-type]|MAXSCALEDENOM [double]|
+#.  MAXTEMPLATE [file|url]|METADATA|MINSCALEDENOM [double]|MINTEMPLATE|
+#.  QUERYFORMAT [mime-type]|TEMPLATE [filename|url]|TEMPPATH|VALIDATION
+WEB
+	${1}
+END # WEB
+]]></content>
+	<tabTrigger>web</tabTrigger>
+	<scope>source.map</scope>
+	<description>snippet WEB..END</description>
+</snippet>

@@ -1,0 +1,1739 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wm",
+				"wms_bgcolor\t\"...\""
+			],
+			[
+				"leg",
+				"legend\tsnippet LEGEND..END"
+			],
+			[
+				"la",
+				"label\tsnippet LABEL..END"
+			],
+			[
+				"le",
+				"legend\tsnippet LEGEND..END"
+			],
+			[
+				"ext",
+				"EXTENT"
+			],
+			[
+				"pos",
+				"POSTGIS"
+			],
+			[
+				"met",
+				"METERS"
+			],
+			[
+				"w",
+				"web\tsnippet WEB..END"
+			],
+			[
+				"alia",
+				"gml_[item_name]_alias\t\"...\""
+			],
+			[
+				"da",
+				"DATA"
+			],
+			[
+				"c",
+				"composite\tsnippet COMPOSITE..END"
+			],
+			[
+				"Gr",
+				"GROUP"
+			],
+			[
+				"fil",
+				"FILTER"
+			],
+			[
+				"cl",
+				"cluster\tsnippet CLUSTER..END"
+			],
+			[
+				"map",
+				"map\tsnippet MAP..END"
+			],
+			[
+				"de",
+				"wcs_description\t\"...\""
+			],
+			[
+				"ow",
+				"ows_srs\t\"...\""
+			],
+			[
+				"wms",
+				"wms_accessconstraints\t\"...\""
+			],
+			[
+				"m",
+				"METADATA"
+			],
+			[
+				"Elli",
+				"ELLIPSE"
+			],
+			[
+				"el",
+				"ELLIPSE"
+			],
+			[
+				"src",
+				"src-out\t\"...\""
+			],
+			[
+				"com",
+				"composite\tsnippet COMPOSITE..END"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"wmsdes",
+				"wms_descriptionurl_href\t\"...\""
+			],
+			[
+				"wmsur",
+				"wms_sld_url\t\"...\""
+			],
+			[
+				"im",
+				"IMAGEURL"
+			],
+			[
+				"ma",
+				"map\tsnippet MAP..END"
+			],
+			[
+				"wmdim",
+				"wms_dimension_[dimension_name]_units\t\"...\""
+			],
+			[
+				"wmsdim",
+				"wms_dimension_[dimension_name]_default\t\"...\""
+			],
+			[
+				"auto",
+				"auto_complete\tsetting"
+			],
+			[
+				"poi",
+				"POINT"
+			],
+			[
+				"wfs",
+				"wfs_anable_request\t\"...\""
+			],
+			[
+				"wfs_",
+				"wfs_onlineresource\t\"...\""
+			],
+			[
+				"POL",
+				"POLYGON"
+			],
+			[
+				"ME",
+				"METERS"
+			],
+			[
+				"browseformat",
+				"BROWSEFORMAT"
+			],
+			[
+				"maxscaledenom",
+				"MAXSCALEDENOM"
+			],
+			[
+				"lege",
+				"LEGENDFORMAT"
+			],
+			[
+				"on",
+				"ON"
+			],
+			[
+				"sta",
+				"STATUS"
+			],
+			[
+				"fon",
+				"FONTSET"
+			],
+			[
+				"item",
+				"gml_mandatory_items\t\"...\""
+			],
+			[
+				"gm",
+				"gml_geometries\t\"...\""
+			],
+			[
+				"ads",
+				"wcs_responsibleparty_address_administrativearea\t\"...\""
+			],
+			[
+				"titl",
+				"wms_group_title\t\"...\""
+			],
+			[
+				"tit",
+				"wms_attribution_title\t\"...\""
+			],
+			[
+				"titel",
+				"wfs_title\t\"...\""
+			],
+			[
+				"wmtit",
+				"wms_style_[style_name]_title\t\"...\""
+			],
+			[
+				"stmw",
+				"wms_style_[style_name]_legendurl_width"
+			],
+			[
+				"wcs",
+				"wcs_accessconstraints\t\"...\""
+			],
+			[
+				"asd",
+				"wcs_address"
+			],
+			[
+				"sty",
+				"wms_style_[style_name]_legendurl_format\t\"...\""
+			],
+			[
+				"st",
+				"wms_style_[style_name]_format\t\"...\""
+			],
+			[
+				"wmssty",
+				"wms_style_[style_name]_width\t\"...\""
+			],
+			[
+				"wmsst",
+				"wms_style_[style_name]_width"
+			],
+			[
+				"gml",
+				"gml_groups"
+			],
+			[
+				"geo",
+				"wfs_geometryname"
+			],
+			[
+				"a",
+				"angle"
+			],
+			[
+				"wc",
+				"wcs_city"
+			],
+			[
+				"wmst",
+				"wms_title\t### "
+			],
+			[
+				"g",
+				"gml_[f_name]_alias\t\"gml_...\""
+			],
+			[
+				"wmsstyl",
+				"wms_style_itemname_legendurl_format"
+			],
+			[
+				"wmsit",
+				"wms_style_itemname_legendurl_height"
+			],
+			[
+				"me",
+				"METADATA"
+			],
+			[
+				"M",
+				"METADATA"
+			],
+			[
+				"fo",
+				"FONTSET"
+			],
+			[
+				"sc",
+				"SCALEDENOM"
+			],
+			[
+				"ag",
+				"AGG"
+			],
+			[
+				"Geo",
+				"GeomHelper"
+			],
+			[
+				"pro",
+				"projection"
+			],
+			[
+				"value",
+				"valuesjoin"
+			],
+			[
+				"Gb",
+				"GbZh"
+			],
+			[
+				"mapP",
+				"mapProjection"
+			],
+			[
+				"G",
+				"GbZh"
+			],
+			[
+				"u",
+				"username"
+			],
+			[
+				"fe",
+				"features"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"t",
+				"tail"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"ST_intersec",
+				"St_intersects"
+			],
+			[
+				"ids",
+				"ids_arr"
+			],
+			[
+				"ID",
+				"ids_arr"
+			],
+			[
+				"curr",
+				"currentOption"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"su",
+				"submitform"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"h",
+				"href\tAttr"
+			],
+			[
+				"f",
+				"fun\tFunction"
+			],
+			[
+				"lev",
+				"levdiff"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"di",
+				"disabled\tAttr"
+			],
+			[
+				"br",
+				"br"
+			],
+			[
+				"en",
+				"enableEl"
+			],
+			[
+				"se",
+				"serviceName"
+			],
+			[
+				"g_",
+				"g_fields"
+			],
+			[
+				"attri",
+				"attribs"
+			],
+			[
+				"ST_A",
+				"ST_AsGeoJSON"
+			],
+			[
+				"ST_",
+				"ST_AsText"
+			],
+			[
+				"spli",
+				"splitStr"
+			],
+			[
+				"sp",
+				"splitStr"
+			],
+			[
+				"select",
+				"selectAttribs"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"serv",
+				"serviceName"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"att",
+				"attrs"
+			],
+			[
+				"git",
+				"gitignore_global"
+			],
+			[
+				"co",
+				"cordova"
+			],
+			[
+				"deb",
+				"deb-src"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mapfile.sublime-syntax",
+			"settings":
+			{
+				"buffer_size": 17049,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "snippets/metadata.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 196,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "snippets/outputformat.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "######################################\n###############  test  ###############\n######################################\n######################################\n##\n## CONTENT\n## *******\n## - layer1\n## - layer2\n## - layer3\n## - layer4\n## - layer5\n##\n######################################\n\n#.  MAP: http://www.mapserver.org/mapfile/map.html\n#.  ANGLE [double]|CONFIG [key] [value]|DATAPATTERN [regular expression]|\n#.  DEBUG [off|on|0|1|2|3|4|5]|DEFRESOLUTION [int]|EXTENT [minx] [miny] [maxx] [maxy]|\n#.  FONTSET [filename]|IMAGECOLOR [r] [g] [b]|IMAGETYPE [jpeg|pdf|png|svg|...|userdefined]|\n#.  LAYER|LEGEND|MAXSIZE [integer]|NAME [name]|PROJECTION|QUERYMAP|REFERENCE|\n#.  RESOLUTION [int]|SCALEDENOM [double]|SCALEBAR|SHAPEPATH [filename]|SIZE [x][y]|\n#.  STATUS [on|off]|SYMBOLSET [filename]|SYMBOL|TEMPLATEPATTERN [regular expression]|\n#.  UNITS [dd|feet|inches|kilometers|meters|miles|nauticalmiles]|WEB\nMAP\n\tNAME \"test\"\n\t#.  LEGEND: http://www.mapserver.org/mapfile/legend.html\n\t#.  IMAGECOLOR [r] [g] [b]|KEYSIZE [x][y]|KEYSPACING [x][y]|LABEL|OUTLINECOLOR [r] [g] [b]|\n\t#.  POSITION [ul|uc|ur|ll|lc|lr]|POSTLABELCACHE [true|false]|STATUS [on|off|embed]|\n\t#.  TEMPLATE [filename]\n\tLEGEND\n\t\tIMAGECOLOR 0 0 255\n\n\tEND # LEGEND\n\n\t#.  LEADER: http://www.mapserver.org/mapfile/leader.html\n\t#.  Supported Layer Types: POLYGON\n\t#.  GRIDSTEP [integer]|MAXDISTANCE [integer]|STYLE\n\tLEADER\n\t\tGRIDSTEP 5\n\t\tMAXDISTANCE 30\n\tEND # LEADER\n\n\t#.  LAYER: http://www.mapserver.org/mapfile/layer.html\n\t#.  CLASS|CLASSGROUP [string]|CLASSITEM [attribute]|CLUSTER|COMPOSITE|CONNECTION [string]|\n\t#.  CONNECTIONTYPE [CONTOUR|KERNELDENSITY|LOCAL|OGR|ORACLESPATIAL|PLUGIN|POSTGIS|SDE|UNION|UVRASTER|WFS|WMS]|\n\t#.  DATA [filename]|[sde parameters][postgis table/column][oracle table/column]|\n\t#.  DEBUG [off|on|0|1|2|3|4|5]|ENCODING [string]|EXTENT [minx] [miny] [maxx] [maxy]|FEATURE|\n\t#.  FILTER [string]|FILTERITEM [attribute]|FOOTER [filename]|GEOMTRANSFORM [<expression>|<Javascript file>]|\n\t#.  GRID|GROUP [name]|HEADER [filename]|JOIN|LABELCACHE [on|off]|LABELITEM [attribute]|\n\t#.  LABELMAXSCALEDENOM [double]|LABELMINSCALEDENOM [double]|LABELREQUIRES [expression]|MASK [layername]|\n\t#.  MAXFEATURES [integer]|MAXGEOWIDTH [double]|MAXSCALEDENOM [double]|METADATA|MINGEOWIDTH [double]|\n\t#.  MINSCALEDENOM [double]|NAME [string]|OFFSITE [r] [g] [b]|PLUGIN [filename]|POSTLABELCACHE [true|false]|\n\t#.  PROCESSING [string]|PROJECTION|REQUIRES [expression]|\n\t#.  SIZEUNITS [feet|inches|kilometers|meters|miles|nauticalmiles|pixels]|STATUS [on|off|default]|\n\t#.  STYLEITEM [<attribute>|auto|<javascript file>]|SYMBOLSCALEDENOM [double]|TEMPLATE [file|url]|\n\t#.  TILEINDEX [filename|layername]|TILEITEM [attribute]|TILESRS [attribute]|TOLERANCE [double]|\n\t#.  TOLERANCEUNITS [pixels|feet|inches|kilometers|meters|miles|nauticalmiles|dd]|\n\t#.  TRANSFORM [true|false ul|uc|ur|lc|cc|lr|ll|lc|lr]|TYPE [chart|circle|line|point|polygon|raster|query]|\n\t#.  UNITS [dd|feet|inches|kilometers|meters|miles|nauticalmiles|percentages|pixels]|\n\t#.  UTFDATA [string]|UTFITEM [string]|VALIDATION\n\t#############  test  #############\n\tLAYER\n\t\tNAME \"test\"\n\t\tSTATUS ON\n\t\tTYPE CHART|CIRCLE|LINE|POINT|POLYGON|RASTER|QUERY\n\t\tCONNECTIONTYPE CONTOUR|KERNELDENSITY|LOCAL|OGR|ORACLESPATIAL|PLUGIN|POSTGIS|SDE|UNION|UVRASTER|WFS|WMS\n\t\tCONNECTION \"string\"\n\t\tDATA \"filename]|[sde parameters][postgis table/column][oracle table/column\"\n\t\tTRANSFORM false\n\tEND # LAYER test\n\n\t#.  LABEL: http://www.mapserver.org/mapfile/label.html\n\t#.  ALIGN [left|center|right]|ANGLE [double|auto|auto2|follow|attribute]|\n\t#.  ANTIALIAS [TRUE|FALSE]|BUFFER [integer]|COLOR [r] [g] [b]|[attribute]|\n\t#.  ENCODING [string]|EXPRESSION [string]|FONT [name|attribute]|FORCE [true|false]\n\t#.  MAXLENGTH [integer]|MAXOVERLAPANGLE [double]|MAXSCALEDENOM [double]|MAXSIZE [double]\n\t#.  MINDISTANCE [integer]|MINFEATURESIZE [integer|auto]|MINSCALEDENOM [double]\n\t#.  MINSIZE [double]|OFFSET [x][y]|OUTLINECOLOR [r] [g] [b]|[attribute]|\n\t#.  OUTLINEWIDTH [integer]|PARTIALS [true|false]|POSITION [UL|UC|UR|CL|CC|CR|LL|LC|LR|AUTO]\n\t#.  PRIORITY [integer]|[item_name]|[attribute]|REPEATDISTANCE [integer]|\n\t#.  SHADOWCOLOR [r] [g] [b]|SHADOWSIZE [x][y]|[attribute][attribute]|[x][attribute]|[attribute][y]\n\t#.  SIZE [double]|[TINY|SMALL|MEDIUM|LARGE|GIANT]|[attribute]|STYLE|TEXT [string|expression]|\n\t#.  TYPE [BITMAP|TRUETYPE]|WRAP [character]\n\tLABEL\n\t\tCOLOR  r g b|attribute\n\t\tOUTLINECOLOR r g b|attribute\n\t\tFONT \"sans\"\n\t\tTYPE BITMAP|TRUETYPE\n\t\tSIZE 6\n\t\tPOSITION UL|UC|UR|CL|CC|CR|LL|LC|LR|AUTO\n\t\tPARTIALS TRUE|FALSE\n\tEND # LABEL\n\n\t#.  OUTPUTFORMAT: http://www.mapserver.org/mapfile/outputformat.html\n\t#.  DRIVER [name]|EXTENSION [type]|FORMATOPTION [option]|\n\t#.  IMAGEMODE [PC256/RGB/RGBA/INT16/FLOAT32/FEATURE]|MIMETYPE [type]|NAME [name]\n\t#.  TRANSPARENT [ON/OFF]\n\tOUTPUTFORMAT\n\t\tNAME: png\n\t\tDRIVER:\n\tEND # OUTPUTFORMAT # png\n\n\n\n\nEND # MAP",
+			"settings":
+			{
+				"buffer_size": 4864,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "snippets/composite.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Mapfile.sublime-commands",
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Unix",
+				"name": "["
+			}
+		},
+		{
+			"file": "removeSnippetComments.py",
+			"settings":
+			{
+				"buffer_size": 485,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "snippets/1-mapfile-completions.sublime-completions",
+			"settings":
+			{
+				"buffer_size": 52422,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "map",
+		"selected_items":
+		[
+			[
+				"map",
+				"Mapfile Support: Remove Snippet Comments"
+			],
+			[
+				"unre",
+				"UnrealScriptIDE: Open Wiki"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"synmap",
+				"Set Syntax: Mapfile"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"t",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"fin",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"to",
+				"View: Toggle Status Bar"
+			],
+			[
+				"togg",
+				"View: Toggle Status Bar"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"su",
+				"SublimeREPL: Elm"
+			],
+			[
+				"elm",
+				"Set Syntax: Elm"
+			],
+			[
+				"syn ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 229.0,
+		"history":
+		[
+			"view.run_command(\"remove_snippet_comments\")",
+			"view.run_command(\"removeSnippetComments\")",
+			"sublime.log_commands(True)",
+			"``sublime.log_commands(True)``",
+			"view.scope_name(0)",
+			"view.scope_name(1)",
+			"view.scope_name(4)",
+			"view.scope_name(3)",
+			"view.scope_name(2)",
+			"view.scope_name(1)",
+			"view.scope_name(0)",
+			"view.scope_name()",
+			"print(x for x in view.scope_name)",
+			"print(view.scope_name[0])",
+			"print(dir(view.scope_name))",
+			"print(view.scope_name)",
+			"print(dir(view))",
+			"print(view)",
+			"print(view.syntax_name(view.sel()[0].begin()))",
+			"view.run_command(\"jshint\")",
+			"view.encoding()",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets"
+	],
+	"file_history":
+	[
+		"/home/ste/.cache/.fr-4uU9t1/UnrealScriptIDEGoToDeclaration.py",
+		"/home/ste/.cache/.fr-CBcwHE/UnrealScript.sublime-commands",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets/layer.sublime-snippet",
+		"/home/ste/dev/gb2/mapserver/maps/intranet/AAbstart.map",
+		"/home/ste/dev/gb2/mapserver/maps/intranet/GlobalLayers/init.inc",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets/web.sublime-snippet",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets/grid.sublime-snippet",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets/join.sublime-snippet",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets/label.sublime-snippet",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets/cluster.sublime-snippet",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets/composite.sublime-snippet",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets/class.sublime-snippet",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets/map.sublime-snippet",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/mapfile.sublime-syntax",
+		"/home/ste/dev/gb2/mapserver/maps/intranet/AAbstart.map.html.tmpl",
+		"/home/ste/dev/gb2/mapserver/maps/intranet/AAAstart.map",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/removeSnippetComments.py",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/build/source.txt",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/build/build_completions.js",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/Main.sublime-menu",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/build/metadata_keyword_syntax.txt",
+		"/home/ste/Downloads/Ruby.sublime-syntax",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/build/1-mapfile-completions.sublime-completions",
+		"/home/ste/.cache/.fr-9Cda6B/trim_trailing_white_space.py",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets/1-mapfile-completions.sublime-completions",
+		"/home/ste/.cache/.fr-JfAeg1/trim_trailing_white_space.py",
+		"/home/ste/.cache/.fr-nbibD4/delete_word.py",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/removeSnippetComments.sublime-macro",
+		"/opt/sublime_text/Packages/Default.sublime-package",
+		"/home/ste/.config/sublime-text-3/Packages/GbEditTheme/GbEditTheme.py",
+		"/home/ste/.cache/.fr-6fj2bg/elm_project.py",
+		"/home/ste/.cache/.fr-CGcVW4/elm_plugin.py",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/build/gml_fields_from_pg.sublime-macro",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/mapfile-completions.sublime-completions",
+		"/home/ste/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ste/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ste/dev/gb2/mapserver/maps/internet/FnsVertraegeWFST.xml",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/controller/edit/FormFnsBunMassnahmePController.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/view/edit/FormFnsBunMassnahmeP.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/controller/edit/FormFnsBunMassnahmeLController.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/view/edit/FormFnsBunMassnahmeL.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/controller/edit/FormFnsBunMassnahmeFController.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/view/edit/FormFnsBunMassnahmeF.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/controller/edit/FormFnsBunNutzungsbracheController.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/view/edit/FormFnsBunNutzungsbrache.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/controller/edit/FormFnsLWeditZHController.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/view/edit/FormFnsLWeditZH.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/controller/edit/FormFnsBunMarkierungPController.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/view/edit/FormFnsBunMarkierungP.js",
+		"/home/ste/dev/gb2/config/deploy/staging.rb",
+		"/home/ste/dev/gb2/public/apps/apibuild/apizh.js",
+		"/home/ste/dev/gb2/app/views/apps/mobile.html.erb",
+		"/home/ste/dev/gb2/public/apps/apibuild/app/base/ViewerState.js",
+		"/home/ste/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/gb_mapfish_appserver-1.1.1/test/dummy/public/apps/myviewer/data/get_feature_info_response.xml",
+		"/home/ste/dev/gb2/mapserver/maps/internet/FnsVertraegeWFST.map",
+		"/home/ste/dev/gb2/mapserver/maps/internet/FnsVertraegeWFS.map",
+		"/home/ste/dev/gb2/app/controllers/geo/awel_aw_verdachtsorte_ps_controller.rb",
+		"/home/ste/dev/gb2/app/models/geo/edit_aln_fns_bun_markierung_p.rb",
+		"/home/ste/dev/gb2/mapserver/maps/internet/Lageklassen2009ZH.map",
+		"/tmp/mozilla_ste0/fritzbox_7270_de.pdf",
+		"/home/ste/dev/gb2/mapserver/maps/intranet/eFJ2SG.map",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/build/keyword_completion_source.txt",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/build/metadata_keyword_completion_source.txt",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/build/metadata_keyword_source.txt",
+		"/home/ste/dev/gb2/mapserver/maps/intranet/ArchSpatzZH.map",
+		"/home/ste/dev/gb2/mapserver/maps/intranet/SportanlagenZH.map",
+		"/home/ste/dev/gb2/mapserver/maps/internet/SportanlagenZH.map",
+		"/home/ste/Documents/qgis/data/1_9046_Scan30um.tfw",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/README.md",
+		"/tmp/mozilla_ste0/diff.txt",
+		"/tmp/mapserver_error.txt",
+		"/tmp/56e9c3f6_6e71_0.tmp.gml",
+		"/tmp/56e9c3d9_6e66_0.tmp.gml",
+		"/tmp/config-err-3UAHIQ",
+		"/media/ste/DE4CAD6F4CAD435F/homefibre.txt",
+		"/home/ste/dev/gb2/mapserver/maps/intranet/AnsitzZH.map",
+		"/home/ste/dev/gb2/mapserver/maps/intranet/AVBBRasterBackgroundZH.map",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/model/edit/AlnFnsBunMarkierungP.js",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets/metadata.sublime-snippet",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/snippets/feature.sublime-snippet",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/metadata.sublime-snippet",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/gml_fields_from_pg.sublime-macro",
+		"/home/ste/.config/sublime-text-3/Packages/User/untitled.sublime-macro",
+		"/home/ste/dev/gb2/public/404.html",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/LICENSE",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/build_completions.js",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/buildMapComp.js",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/metadata_keyword_source.txt",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/mapfile-completion-examples.json",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/sources.txt",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/metadata_keyword_syntax.txt",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/metadata_keyword_completion_source.txt",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/keyword_completion_source.txt",
+		"/home/ste/Downloads/completions/phalconphp-completions-master/build.js",
+		"/home/ste/Downloads/completions/phalconphp-completions-master/xxxphalconphp-completions.sublime-completionsxxx",
+		"/home/ste/Downloads/completions/phalconphp-completions-master/xxxsources.txt",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/map.sublime-snippet",
+		"/home/ste/dev/gb2/mapserver/maps/internet/TBAWanderwegeZH.map",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/etadata_keyword_source.txt",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/phalconphp-completions.sublime-completions",
+		"/home/ste/Downloads/completions/phalconphp-completions-master/phalconphp-completions.sublime-completions",
+		"/home/ste/Downloads/completions/phalconphp-completions-master/buildMapComp.js",
+		"/home/ste/Downloads/completions/phalconphp-completions-master/sources.txt",
+		"/home/ste/Downloads/completions/phalconphp-completions-master/mapfile-completions.sublime-completions",
+		"/home/ste/.config/sublime-text-3/Packages/SyntaxMapfile/mapile.sublime-snippet",
+		"/home/ste/Downloads/README (1).md",
+		"/home/ste/Downloads/README (2).md",
+		"/home/ste/Downloads/README.md",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/controller/edit/FormAfvGvWWUmleitungenController.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/view/edit/FormAfvGvWWSperren.js",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/controller/edit/FormAfvGvWWSperrenController.js",
+		"/home/ste/dev/gb2/config/initializers/snapping_layers.rb",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/view/edit/FormAfvGvWWUmleitungen.js",
+		"/home/ste/dev/gb2/app/controllers/geo/aln_fj_efj2_sg_ps_controller.rb",
+		"/home/ste/dev/gb2/app/models/geo/aln_fj_efj2_sg_p.rb",
+		"/home/ste/dev/gb2/config/routes.rb",
+		"/home/ste/dev/gb2/app/views/registrations/avwms/_app_infos.html.erb",
+		"/home/ste/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/gb_mapfish_appserver-1.1.1/app/views/registrations/new.html.erb",
+		"/home/ste/dev/gb2/app/views/registrations/avwms/_filters.html.erb",
+		"/home/ste/dev/gb2/app/views/registrations/avwms/_new.html.erb",
+		"/home/ste/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/gb_mapfish_appserver-1.1.1/app/views/users/edit.html.erb",
+		"/home/ste/dev/gb2/app/helpers/geom_helper.rb",
+		"/home/ste/dev/gb2/app/controllers/gb2_apps_controller.rb",
+		"/home/ste/dev/gb2/app/controllers/toponames_controller.rb",
+		"/home/ste/dev/gb2/public/apps/gb41build/app/utils/GbTools.js",
+		"/home/ste/dev/gb2/mapserver/maps/intranet/TBAWanderwegeZH.map",
+		"/home/ste/dev/gb2/public/apps/gb41build/lib/GbZh/ol/FeatureQuery.js",
+		"/home/ste/dev/gb2/app/views/registrations/avzhwfs/_app_infos.html.erb"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"/home/ste/dev/gb2",
+			"/home/ste/dev/gb2/app",
+			"/home/ste/dev/gb2/public/apps/apibuild",
+			"/home/ste/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/gb_mapfish_appserver-1.1.1",
+			"/home/ste/dev/gb2/app",
+			"/home/ste/dev/gb2/app/models",
+			"/home/ste/dev/gb2/app/views",
+			"/home/ste/dev/gb2/public/apps/gb41build",
+			"/home/ste/dev/gb2/public",
+			"/home/ste/dev/gb2/public/apps/gb41build",
+			"/home/ste/dev/gb2/public/apps/gb41build/app",
+			"/home/ste/dev/gb2/public/apps/gb41build",
+			"/home/ste/dev/gb2/app/views",
+			"/home/ste/dev/gb2/public/apps/gb41build",
+			"/home/ste/dev/gb2/public/apps/gb41build/app/controller",
+			"/home/ste/dev/gb2/public/apps/gb41build",
+			"/home/ste/dev/gb2/db",
+			"/home/ste/dev/gb2/config",
+			"/home/ste/dev/gb2",
+			"/home/ste/dev/gb2/app",
+			"/home/ste/dev/gb2/public/apps/gb41build/app",
+			"/home/ste/dev/waldapp2",
+			"/home/ste/dev/waldapp2/cordova",
+			"/home/ste/dev/waldapp2/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"per",
+			"units",
+			"PERCE",
+			"PERCENTAGES",
+			"composit",
+			"compop",
+			"“",
+			"“.+”",
+			"\".\"",
+			"LEGEND",
+			"legend",
+			"leader",
+			"LEADER",
+			"leader",
+			"LEADER",
+			"leader",
+			"LEADER",
+			"FEATURE",
+			"#.  ",
+			"name",
+			"${1}",
+			"}\n",
+			"${1}",
+			"Classname",
+			"LAYER",
+			"layer",
+			"1:layer",
+			"1:",
+			"NAME",
+			"name",
+			"#.  ",
+			"[",
+			"png",
+			"#.  ",
+			"bitmap|truetype",
+			"true|false",
+			"JOIN",
+			"join",
+			"grid",
+			"GRID",
+			"#.  ",
+			"feature",
+			"FEATURE",
+			"#.  ",
+			".inc",
+			"20[0..9][0..9]",
+			"^20[0..9][0..9]",
+			"\t#.  ",
+			"#.  ",
+			"\n#.  difference",
+			"|",
+			"*",
+			"*|\n",
+			"invert*|",
+			"*",
+			"trailing_white_space",
+			"move",
+			"|",
+			"#.  ",
+			"\n",
+			"sele",
+			"#.  ",
+			"find_under",
+			"#.  ",
+			"#",
+			"#.  ",
+			"#",
+			"#.  ",
+			"${",
+			"\n",
+			"modified",
+			"roleLevel",
+			"#",
+			"    # ",
+			"wfs_anable_request",
+			"wfs",
+			"role",
+			"fnsbun",
+			"guesssrid",
+			"guess",
+			"roleLevel",
+			"rolelev",
+			"[A-Z]+",
+			"[A-Z]+/g",
+			"COMPOSITE",
+			"CLASS",
+			"METADATA",
+			"LAYER",
+			"MAP",
+			"WEB",
+			"[ \t]+\\$\\$\\$",
+			"name",
+			"$$$",
+			" \t",
+			"[a-zA-Z_\\[\\]]+$",
+			"$$$",
+			"master",
+			"###",
+			"###[",
+			"\t###",
+			"row",
+			"###",
+			"\\[[a-zA-Z_]*\\]",
+			"group_name",
+			"geometry_name",
+			"\t\t\t\t\t\t###",
+			"### ",
+			"wms_abstract\t\t\t\t\t\t###",
+			"\t\t\t\t\t\t",
+			"%s",
+			"\t",
+			"# ",
+			"(wms|wfs|wcs|sos|ows|gml)_[a-zA-Z_]*(\\[[a-zA-Z'' `’_%]*\\]_|%)?[a-zA-Z_]*[a-z]+",
+			"wms_ke",
+			"key",
+			"[",
+			"item",
+			"%s",
+			"item",
+			"style’s",
+			"style's",
+			"itemname",
+			" ",
+			"’",
+			"[storedqueryid]",
+			"[style’s_name]",
+			"[style's_name]",
+			"[vocabulary’s name]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mapfile.sublime-syntax",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "snippets/metadata.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "snippets/outputformat.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3402,
+								3402
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/SyntaxMapfile/mapfile.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 953.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "snippets/composite.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Mapfile.sublime-commands",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"auto_name": "[",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "removeSnippetComments.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								485,
+								485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "snippets/1-mapfile-completions.sublime-completions",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 52422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 285.0
+	},
+	"output.find_results":
+	{
+		"height": 144.0
+	},
+	"output.settings_documentation_panel":
+	{
+		"height": 126.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 558.0
+	},
+	"pinned_build_system": "Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+	"project": "mapfile.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"aaa",
+				"gb2/mapserver/maps/intranet/AAAstart.map"
+			],
+			[
+				"wfstxml",
+				"gb2/mapserver/maps/internet/FnsVertraegeWFST.xml"
+			],
+			[
+				"formbunmassp",
+				"gb2/public/apps/gb41build/app/controller/edit/FormFnsBunMassnahmePController.js"
+			],
+			[
+				"formbunmassl",
+				"gb2/public/apps/gb41build/app/controller/edit/FormFnsBunMassnahmeLController.js"
+			],
+			[
+				"formbunmasscon",
+				"gb2/public/apps/gb41build/app/controller/edit/FormFnsBunMassnahmeFController.js"
+			],
+			[
+				"formfnsbunnu",
+				"gb2/public/apps/gb41build/app/controller/edit/FormFnsBunNutzungsbracheController.js"
+			],
+			[
+				"formlw",
+				"gb2/public/apps/gb41build/app/controller/edit/FormFnsLWeditZHController.js"
+			],
+			[
+				"formbunmass",
+				"gb2/public/apps/gb41build/app/view/edit/FormFnsBunMassnahmeP.js"
+			],
+			[
+				"formbunmas",
+				"gb2/public/apps/gb41build/app/view/edit/FormFnsBunMassnahmeL.js"
+			],
+			[
+				"formbun",
+				"gb2/public/apps/gb41build/app/view/edit/FormFnsBunMassnahmeF.js"
+			],
+			[
+				"formmarkier",
+				"gb2/public/apps/gb41build/app/view/edit/FormFnsBunMarkierungP.js"
+			],
+			[
+				"vertra",
+				"gb2/mapserver/maps/internet/FnsVertraegeWFS.map"
+			],
+			[
+				"vertraegexml",
+				"gb_mapfish_appserver-1.1.1/test/dummy/public/apps/myviewer/data/get_feature_info_response.xml"
+			],
+			[
+				"vertr",
+				"gb2/mapserver/maps/internet/FnsVertraegeWFST.map"
+			],
+			[
+				"awelewsps",
+				"gb2/app/controllers/geo/awel_aw_verdachtsorte_ps_controller.rb"
+			],
+			[
+				"init",
+				"gb2/mapserver/maps/intranet/GlobalLayers/init.inc"
+			],
+			[
+				"lagekl",
+				"gb2/mapserver/maps/internet/Lageklassen2009ZH.map"
+			],
+			[
+				"lage",
+				"gb2/mapserver/maps/internet/Lageklassen2009ZH.map"
+			],
+			[
+				"spatz",
+				"gb2/mapserver/maps/intranet/ArchSpatzZH.map"
+			],
+			[
+				"sport",
+				"gb2/mapserver/maps/intranet/SportanlagenZH.map"
+			],
+			[
+				"mapserver/maps/intranet/efj2sg.map",
+				"gb2/mapserver/maps/intranet/eFJ2SG.map"
+			],
+			[
+				"",
+				"gb2/public/apps/gb41build/app/controller/edit/FormFnsLWeditZHController.js"
+			],
+			[
+				"formlwed",
+				"gb2/public/apps/gb41build/app/view/edit/FormFnsLWeditZH.js"
+			],
+			[
+				"formbunmark",
+				"gb2/public/apps/gb41build/app/controller/edit/FormFnsBunMarkierungPController.js"
+			],
+			[
+				"bunmarkierung",
+				"gb2/public/apps/gb41build/app/view/edit/FormFnsBunMarkierungP.js"
+			],
+			[
+				"formmass",
+				"gb2/public/apps/gb41build/app/controller/edit/FormFnsBunMassnahmePController.js"
+			],
+			[
+				"formnutzungsbr",
+				"gb2/public/apps/gb41build/app/controller/edit/FormFnsBunNutzungsbracheController.js"
+			],
+			[
+				"nutzungsbr",
+				"gb2/public/apps/gb41build/app/view/edit/FormFnsBunNutzungsbrache.js"
+			],
+			[
+				"wanderweg.map",
+				"gb2/mapserver/maps/internet/TBAWanderwegeZH.map"
+			],
+			[
+				"rout",
+				"gb2/config/routes.rb"
+			],
+			[
+				"efj2",
+				"gb2/mapserver/maps/intranet/eFJ2SG.map"
+			],
+			[
+				"alnfjwild",
+				"gb2/app/models/geo/aln_fj_wildbuch_efj2_p.rb"
+			],
+			[
+				"topics_con",
+				"gb_mapfish_appserver-1.1.1/app/controllers/topics_controller.rb"
+			],
+			[
+				"gbt",
+				"gb2/public/apps/gb41build/app/utils/GbTools.js"
+			],
+			[
+				"featureq",
+				"gb2/public/apps/gb41build/lib/GbZh/ol/FeatureQuery.js"
+			],
+			[
+				"wanderwegmap",
+				"gb2/mapserver/maps/intranet/TBAWanderwegeZH.map"
+			],
+			[
+				"epsg21781",
+				"gb2/public/lib/proj4js/lib/defs/EPSG21781.js"
+			],
+			[
+				"proj4",
+				"gb2/public/lib/proj4js/lib/proj4js.js"
+			],
+			[
+				"gbinfotabpanelcontroller",
+				"gb2/public/apps/gb41build/app/controller/GbInfoTabPanelController.js"
+			],
+			[
+				"app.j",
+				"gb2/public/apps/gb41build/app/app.js"
+			],
+			[
+				"conne",
+				"gb2/mapserver/maps/intranet/connection.inc"
+			],
+			[
+				"connection.inc",
+				"gb2/mapserver/maps/internet/connection.inc"
+			],
+			[
+				"/globallayers/initsg.inc",
+				"gb2/mapserver/maps/intranet/GlobalLayers/initSG.inc"
+			],
+			[
+				"app/views/topics/custom/_lidarzh_info.html.erb",
+				"gb2/app/views/topics/custom/_lidarzh_info.html.erb"
+			],
+			[
+				"topo",
+				"gb2/app/controllers/geo/toponames_controller.rb"
+			],
+			[
+				"kach",
+				"gb2/app/views/layers/custom/orthozh/_kachelung_info.html.erb"
+			],
+			[
+				"orth",
+				"gb2/mapserver/maps/internet/OrthoZH.map"
+			],
+			[
+				"geofl",
+				"gb2/app/views/layers/custom/awelsbkzh/_geoflaechen_info.html.erb"
+			],
+			[
+				"snapp",
+				"gb2/app/models/geo/snapping_layer.rb"
+			],
+			[
+				"snappingla",
+				"gb2/config/initializers/snapping_layers.rb"
+			],
+			[
+				"sna",
+				"gb2/app/controllers/geo/snapping_controller.rb"
+			],
+			[
+				"fnslw",
+				"gb2/mapserver/maps/intranet/FnsLWZH.map"
+			],
+			[
+				"geo-flaecheninfoerb",
+				"gb2/app/views/layers/custom/awelsbkzh/_geo-flaechen_info.html.erb"
+			],
+			[
+				"geo-fl",
+				"gb2/app/views/layers/custom/awelsbkwwwzh/_geo-flaechen_info.html.erb"
+			],
+			[
+				"formfnslwed",
+				"gb2/public/apps/gb41build/app/view/edit/FormFnsLWeditZH.js"
+			],
+			[
+				"app.js",
+				"gb2/public/apps/gb41build/app/app.js"
+			],
+			[
+				"efj2rb",
+				"gb2/app/models/geo/aln_fj_wildbuch_efj2_p.rb"
+			],
+			[
+				"efj",
+				"gb2/mapserver/maps/internet/eFJ2SG.map"
+			],
+			[
+				"grid",
+				"gb2/public/apps/gb41build/app/view/edit/GridFOMESZH.js"
+			],
+			[
+				"formfomes",
+				"gb2/public/apps/gb41build/app/view/edit/FormFOMESZH.js"
+			],
+			[
+				"editformfnsbunnutzungsbrache",
+				"gb2/public/apps/gb41build/app/controller/edit/FormFnsBunNutzungsbracheController.js"
+			],
+			[
+				"fnsbunzhcontroller",
+				"gb2/public/apps/gb41build/app/controller/edit/TabFnsBUNZHController.js"
+			],
+			[
+				"formfnsbunzhcontroller",
+				"gb2/public/apps/gb41build/app/controller/edit/FormFnsBunNutzungsbracheController.js"
+			],
+			[
+				"bunzh.js",
+				"gb2/public/apps/gb41build/app/view/edit/TabFnsBUNZH.js"
+			],
+			[
+				"gemfile",
+				"gb2/Gemfile.lock"
+			],
+			[
+				"immoregederb",
+				"gb2/app/views/layers/custom/immoregeditzh/_immoreg_zh_gebaeude_p_info.html.erb"
+			],
+			[
+				"immoregerb",
+				"gb2/app/views/topics/custom/_immoregeditzh_info.html.erb"
+			],
+			[
+				"wszh",
+				"gb2/public/apps/wszh/toponames/wszh.html"
+			],
+			[
+				"feinersc",
+				"gb2/app/views/layers/custom/fomeszh/_feinerschliessung_info.html.erb"
+			],
+			[
+				"fomesjs",
+				"gb2/public/apps/gb41build/app/controller/edit/FormFOMESZHController.js"
+			],
+			[
+				"alnfomesfein.js",
+				"gb2/public/apps/gb41build/app/store/edit/AlnWaldFomesFeinerschliessungLs.js"
+			],
+			[
+				"viewer",
+				"gb2/public/apps/gb41build/lib/GbZh/base/ViewerState.js"
+			],
+			[
+				"editt",
+				"public/apps/gb41build/app/controller/GbEditToolsController.js"
+			],
+			[
+				"toponam",
+				"app/controllers/geo/toponames_controller.rb-old"
+			],
+			[
+				"top",
+				"app/controllers/geo/toponames_controller.rb"
+			],
+			[
+				"gem",
+				"Gemfile.lock"
+			],
+			[
+				"build.xm",
+				"waldapp2/build.xml"
+			],
+			[
+				"sencha.cfg",
+				"waldapp2/.sencha/app/sencha.cfg"
+			],
+			[
+				"re",
+				"waldapp2/README.md"
+			],
+			[
+				"app",
+				"waldapp2/app.json"
+			],
+			[
+				"config.xml",
+				"waldapp2/cordova/config.xml"
+			],
+			[
+				"grad",
+				"waldapp2/cordova/platforms/android/gradle/wrapper/gradle-wrapper.properties"
+			],
+			[
+				"cordova.gradle",
+				"waldapp2/cordova/platforms/android/CordovaLib/cordova.gradle"
+			],
+			[
+				".json",
+				"waldapp2/.sencha/app/codegen.json"
+			],
+			[
+				"packager",
+				"waldapp2/.sencha/app/packager-impl.xml"
+			],
+			[
+				"cordova",
+				"waldapp2/cordova/platforms/android/CordovaLib/cordova.gradle"
+			],
+			[
+				"setti",
+				"waldapp2/cordova/platforms/android/settings.gradle"
+			],
+			[
+				"settings",
+				"waldapp2/app/view/Settings.js"
+			],
+			[
+				"plugin",
+				"waldapp2/cordova/platforms/android/build/intermediates/assets/armv7/debug/www/plugins/io.litehelpers.cordova.sqlite/www/SQLitePlugin.js"
+			],
+			[
+				"excursionmap",
+				"waldapp2/app/view/ExcursionMap.js"
+			],
+			[
+				"build",
+				"waldapp2/build.xml"
+			],
+			[
+				"gb",
+				"qgis/gb-wms.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Mapfile Support: Remove Snippet Comments",
+        "command": "remove_snippet_comments"
+    }
+]

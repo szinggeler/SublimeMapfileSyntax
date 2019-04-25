@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+#.  LEGEND: http://www.mapserver.org/mapfile/legend.html
+#.  IMAGECOLOR [r] [g] [b]|KEYSIZE [x][y]|KEYSPACING [x][y]|LABEL|OUTLINECOLOR [r] [g] [b]|
+#.  POSITION [ul|uc|ur|ll|lc|lr]|POSTLABELCACHE [true|false]|STATUS [on|off|embed]|
+#.  TEMPLATE [filename]
+LEGEND
+	${1}
+END # LEGEND
+]]></content>
+	<tabTrigger>legend</tabTrigger>
+	<scope>source.map</scope>
+	<description>snippet LEGEND..END</description>
+</snippet>

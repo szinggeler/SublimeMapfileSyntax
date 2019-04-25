@@ -1,0 +1,603 @@
+# keyword_completion_source.txt
+#
+# copy this file into source.txt and run 'node build_completions.js'
+# -> new file 'mapfile-completions.sublime-completions'
+#
+# first order keywords
+CLASS
+CLUSTER
+COMPOSITE
+END
+FEATURE
+GRID
+JOIN
+LABEL
+LAYER
+LEADER
+LEGEND
+MAP
+METADATA
+OUTPUTFORMAT
+PATTERN
+POINTS
+PROJECTION
+QUERYMAP
+REFERENCE
+SCALEBAR
+STYLE
+SYMBOL
+VALIDATION
+WEB
+# second order keywords
+AGG
+ALIGN
+ANCHORPOINT
+ANGLE
+ANTIALIAS
+API
+ASP
+BACKGROUNDCOLOR
+BANDS
+BLOCKXSIZE
+BLOCKYSIZE
+BROWSEFORMAT
+BUFFER
+BYTE
+CGI
+CHARACTER
+CLASSGROUP
+CLASSITEM
+COLOR
+COLORRANGE
+COMPRESS
+COMPRESSION
+CONFIG
+CONNECTION
+CONNECTIONTYPE
+DATA
+DATAPATTERN
+DATARANGE
+DEBUG
+DEFRESOLUTION
+DITHER
+DRIVER
+DUMP
+DUPLICATES
+EMPTY
+ENCODING
+EPSG
+ERROR
+EUC
+EXPRESSION
+EXTENSION
+EXTENT
+FILLED
+FILTER
+FILTERITEM
+FONT
+FONTSET
+FOOTER
+FORCE
+FORMATOPTION
+FROM
+GAMMA
+GAP
+GDAL
+GDB
+GEOMTRANSFORM
+GEOS
+GML
+GPX
+GRIDSTEP
+GROUP
+HEADER
+IIS
+IMAGE
+IMAGECOLOR
+IMAGEMODE
+IMAGEPATH
+IMAGETYPE
+IMAGEURL
+INCLUDE
+INITIALGAP
+INSPIRE
+INTERLACE
+INTERLEAVE
+INTERVALS
+ISO
+ITEMS
+JIS
+KEYIMAGE
+KEYSIZE
+KEYSPACING
+LABELCACHE
+LABELFORMAT
+LABELITEM
+LABELMAXSCALEDENOM
+LABELMINSCALEDENOM
+LABELREQUIRES
+LABELS
+LEGENDFORMAT
+LINECAP
+LINEJOIN
+LINEJOINMAXSIZE
+LUT
+MARKER
+MARKERSIZE
+MASK
+MAXARCS
+MAXBOXSIZE
+MAXCLASSES
+MAXDISTANCE
+MAXFEATURES
+MAXGEOWIDTH
+MAXINTERVAL
+MAXLENGTH
+MAXOVERLAPANGLE
+MAXSCALEDENOM
+MAXSIZE
+MAXSTYLES
+MAXSUBDIVIDE
+MAXSYMBOLS
+MAXTEMPLATE
+MAXWIDTH
+MIMETYPE
+MINARCS
+MINBOXSIZE
+MINDISTANCE
+MINFEATURESIZE
+MINGEOWIDTH
+MININTERVAL
+MINSCALEDENOM
+MINSIZE
+MINSUBDIVIDE
+MINTEMPLATE
+MINWIDTH
+NAME
+NET
+NULLVALUE
+OFFSET
+OFFSITE
+OGC
+OGRINFO
+OPACITY
+OUTLINECOLOR
+OUTLINEWIDTH
+PALETTE
+PARTIALS
+PDF
+PHP
+PLUGIN
+POLAROFFSET
+POSITION
+POSTLABELCACHE
+PRIORITY
+PROCESSING
+QUALITY
+QUERYFORMAT
+REGION
+REPEATDISTANCE
+REQUIRES
+RESAMPLE
+RESOLUTION
+ROSA
+SCALEDENOM
+SHADOWCOLOR
+SHADOWSIZE
+SHAPEPATH
+SIZE
+SIZEUNITS
+SLD
+SOS
+SQL
+SRS
+STARTINDEX
+STATUS
+STYLEITEM
+SWF
+SWIG
+SYMBOLSCALEDENOM
+SYMBOLSET
+TABLE
+TEMPLATE
+TEMPLATEPATTERN
+TEMPPATH
+TEXT
+TILED
+TILEINDEX
+TILEITEM
+TILESRS
+TIS
+TO
+TOLERANCE
+TOLERANCEUNITS
+TRANSFORM
+TRANSPARENT
+TYPE
+UNITS
+URL
+UTF
+UTFDATA
+UTFGRID
+UTFITEM
+UTFRESOLUTION
+WIDTH
+WMC
+WORLDFILE
+WRAP
+XMP
+# more keywords
+on
+off
+true
+false
+AUTO
+AUTO2
+BEVEL
+BITMAP
+BUTT
+CC
+CENTER
+CIRCLE
+CL
+CR
+CSV
+DD
+DEFAULT
+ELLIPSE
+EMBED
+FALSE
+FEET
+FOLLOW
+GIANT
+HATCH
+HILITE
+INCHES
+KILOMETERS
+LARGE
+LC
+LINE
+LL
+LR
+MEDIUM
+METERS
+MILES
+MITER
+MULTIPLE
+MYGIS
+NORMAL
+OFF
+OGR
+ON
+ONE-TO-MANY
+ONE-TO-ONE
+ORACLESPATIAL
+PIXELS
+PIXMAP
+POINT
+POLYGON
+POSTGIS
+QUERY
+RASTER
+ROUND
+RGB
+RGBA
+SDE
+SELECTED
+SIMPLE
+SINGLE
+SMALL
+SQUARE
+TINY
+TRUE
+TRUETYPE
+UC
+UL
+UR
+VECTOR
+WFS
+WMS
+#METADATA KEYWORDS
+angle$$$ 						$$$
+bbox_pixel_is_point$$$ 				$$$
+gml_[geometry_name]_occurances$$$ 			$$$
+gml_[geometry_name]_type$$$ 			$$$
+gml_[group_name]_group$$$ 				$$$
+gml_[item_name]_alias$$$ 				$$$
+gml_[item_name]_group$$$ 				$$$
+gml_[item_name]_occurances$$$ 			$$$
+gml_[item_name]_precision$$$ 			$$$
+gml_[item_name]_type$$$ 				$$$
+gml_[item_name]_value$$$ 				$$$
+gml_[item_name]_width$$$ 				$$$
+gml_constants$$$ 					$$$
+gml_default_items$$$ 				$$$
+gml_display_group$$$ 				$$$
+gml_exclude_items$$$ 				$$$
+gml_featureid$$$ 					$$$
+gml_geometries$$$ 					$$$
+gml_groups$$$ 					$$$
+gml_include_items$$$ 				$$$
+gml_mandatory_items$$$ 				$$$
+gml_optional_items$$$ 				$$$
+gml_province_alias$$$ 				$$$
+gml_types$$$ 					$$$
+gml_xml_items$$$ 					$$$
+labelcache_map_edge_buffer$$$ 			$$$
+ms_enable_modes$$$ 				$$$
+ows_allowed_ip_list$$$ 				$$$
+ows_denied_ip_list$$$ 				$$$
+ows_enable_request$$$ 				$$$
+ows_http_max_age$$$ 				$$$
+ows_language$$$ 					$$$
+ows_onlineresource$$$ 				$$$
+ows_schemas_location$$$ 				$$$Location of XML schema document. Default is http://schemas.opengis.net. See http://ogc.dmsolutions.ca for an example of a valid schema tree.
+ows_service_onlineresource$$$ 			$$$
+ows_sld_enabled$$$ 				$$$
+ows_srs$$$ 					$$$
+ows_title$$$ 					$$$
+ows_updatesequence$$$ 				$$$
+radius$$$ 						$$$
+sos_[item_name]_alias$$$ 				$$$
+sos_[item_name]_definition$$$ 			$$$
+sos_[item_name]_uom$$$ 				$$$
+sos_abstract$$$ 					$$$
+sos_accessconstraints$$$ 				$$$
+sos_address$$$ 					$$$
+sos_addresstype$$$ 				$$$
+sos_allowed_ip_list$$$ 				$$$
+sos_city$$$ 					$$$
+sos_contactelectronicmailaddress$$$ 		$$$
+sos_contactfacsimiletelephone$$$ 			$$$
+sos_contactinstructions$$$ 			$$$
+sos_contactorganization$$$ 			$$$
+sos_contactperson$$$ 				$$$
+sos_contactposition$$$ 				$$$
+sos_contactvoicetelephone$$$ 			$$$
+sos_country$$$ 					$$$
+sos_denied_ip_list$$$ 				$$$
+sos_describesensor_url$$$ 				$$$
+sos_enable_request$$$ 				$$$
+sos_encoding_blockSeparator$$$ 			$$$
+sos_encoding_tokenSeparator$$$ 			$$$
+sos_fees$$$ 					$$$
+sos_hoursofservice$$$ 				$$$
+sos_keywordlist$$$ 				$$$
+sos_maxfeatures$$$ 				$$$
+sos_observedproperty_authority$$$ 			$$$
+sos_observedproperty_id$$$ 			$$$
+sos_observedproperty_name$$$ 			$$$
+sos_observedproperty_version$$$ 			$$$
+sos_offering_description$$$ 			$$$
+sos_offering_extent$$$ 				$$$
+sos_offering_id$$$ 				$$$
+sos_offering_intendedapplication$$$ 		$$$
+sos_offering_name$$$ 				$$$
+sos_offering_timeextent$$$ 			$$$
+sos_onlineresource$$$ 				$$$
+sos_postcode$$$ 					$$$
+sos_procedure$$$ 					$$$
+sos_procedure_item$$$ 				$$$
+sos_role$$$ 					$$$
+sos_service_onlineresource$$$ 			$$$
+sos_srs$$$ 					$$$
+sos_stateorprovince$$$ 				$$$
+sos_timeitem$$$ 					$$$
+sos_title$$$ 					$$$
+wcs_abstract$$$ 					$$$
+wcs_accessconstraints$$$ 				$$$
+wcs_address$$$ 					$$$
+wcs_allowed_ip_list$$$ 				$$$
+wcs_city$$$ 					$$$
+wcs_contactelectronicmailaddress$$$ 		$$$
+wcs_contactfacimiletelephone$$$ 			$$$
+wcs_contactorganization$$$ 			$$$
+wcs_contactperson$$$ 				$$$
+wcs_contactposition$$$ 				$$$
+wcs_contactvoicetelephone$$$ 			$$$
+wcs_country$$$ 					$$$
+wcs_denied_ip_list$$$ 				$$$
+wcs_description$$$ 				$$$
+wcs_enable_request$$$ 				$$$
+wcs_extent$$$ 					$$$
+wcs_fees$$$ 					$$$
+wcs_formats$$$ 					$$$
+wcs_keywords$$$ 					$$$
+wcs_label$$$ 					$$$
+wcs_metadatalink_format$$$ 			$$$
+wcs_metadatalink_href$$$ 				$$$
+wcs_metadatalink_type$$$ 				$$$
+wcs_name$$$ 					$$$
+wcs_native_format$$$ 				$$$
+wcs_nativeformat$$$ 				$$$
+wcs_onlineresource$$$ 				$$$
+wcs_postcode$$$ 					$$$
+wcs_rangeset_axes$$$ 				$$$
+wcs_rangeset_label$$$ 				$$$
+wcs_rangeset_name$$$ 				$$$
+wcs_responsibleparty_address_administrativearea$$$ $$$
+wcs_responsibleparty_address_city$$$ 		$$$
+wcs_responsibleparty_address_country$$$ 		$$$
+wcs_responsibleparty_address_deliverypoint$$$ 	$$$
+wcs_responsibleparty_address_electronicmailaddress$$$ 	$$$
+wcs_responsibleparty_address_postalcode$$$ 	$$$
+wcs_responsibleparty_individualname$$$ 		$$$
+wcs_responsibleparty_onlineresource$$$ 		$$$
+wcs_responsibleparty_organizationname$$$ 		$$$
+wcs_responsibleparty_phone_facsimile$$$ 		$$$
+wcs_responsibleparty_phone_voice$$$ 		$$$
+wcs_responsibleparty_postionname$$$ 		$$$
+wcs_service_onlineresource$$$ 			$$$
+wcs_srs$$$ 					$$$
+wcs_stateorprovince$$$ 				$$$
+wcs_timeitem$$$ 					$$$
+wcs_timeposition$$$ 				$$$
+wfs_[item_name]_filedef$$$ 			$$$
+wfs_[item_name]_inlinedef$$$ 			$$$
+wfs_[storedqueryid]_filedef$$$ 			$$$
+wfs_[storedqueryid]_inlinedef$$$ 			$$$
+wfs_abstract$$$ 					$$$
+wfs_accessconstraints$$$ 				$$$
+wfs_allowed_ip_list$$$ 				$$$
+wfs_auth_password$$$                $$$
+wfs_auth_type$$$                    $$$
+wfs_auth_username$$$                $$$
+wfs_cache_dir$$$                    $$$
+wfs_compute_number_matched$$$           $$$
+wfs_connectiontimeout$$$                $$$
+wfs_denied_ip_list$$$               $$$
+wfs_enable_request$$$ 				$$$
+wfs_encoding$$$ 					$$$
+wfs_extent$$$ 					$$$
+wfs_feature_collection$$$ 				$$$
+wfs_featureid$$$ 					$$$
+wfs_fees$$$ 					$$$
+wfs_filter$$$ 					$$$
+wfs_geometryname$$$ 				$$$
+wfs_getcapabilities_version$$$ 			$$$
+wfs_getfeature_formatlist$$$ 			$$$
+wfs_keywordlist$$$ 				$$$
+wfs_languages$$$ 					$$$
+wfs_latlongboundingbox$$$ 				$$$
+wfs_maxfeatures$$$ 				$$$
+wfs_metadataurl_about$$$ 				$$$
+wfs_metadataurl_format$$$ 				$$$
+wfs_metadataurl_href$$$ 				$$$
+wfs_metadataurl_type$$$ 				$$$
+wfs_namespace_prefix$$$ 				$$$
+wfs_namespace_uri$$$ 				$$$
+wfs_onlineresource$$$ 				$$$
+wfs_proxy_auth_type$$$ 				$$$
+wfs_proxy_host$$$ 					$$$
+wfs_proxy_password$$$ 				$$$
+wfs_proxy_port$$$ 					$$$
+wfs_proxy_type$$$ 					$$$
+wfs_proxy_username$$$ 				$$$
+wfs_request_method$$$ 				$$$
+wfs_return_srs_as_urn$$$ 				$$$
+wfs_service_onlineresource$$$ 			$$$
+wfs_srs$$$ 					$$$
+wfs_storedqueries$$$ 				$$$
+wfs_title$$$ 					$$$
+wfs_tmpdir$$$ 					$$$
+wfs_typename$$$ 					$$$
+wfs_version$$$ 					$$$
+wms_abstract$$$ 					$$$A blurb of text providing more information about the WMS server.
+wms_accessconstraints$$$ 				$$$
+wms_address$$$ 					$$$If provided must also then provide wms_addresstype, wms_city, wms_stateorprovince, wms_postcode, and wms_country)
+wms_addresstype$$$ 				$$$If provided must also then provide wms_address, wms_city, wms_stateorprovince, wms_postcode, and wms_country)
+wms_allowed_ip_list$$$ 				$$$
+wms_attribution_logourl_format$$$ 			$$$
+wms_attribution_logourl_height$$$ 			$$$
+wms_attribution_logourl_href$$$ 			$$$
+wms_attribution_logourl_width$$$ 			$$$
+wms_attribution_onlineresource$$$ 			$$$
+wms_attribution_title$$$ 				$$$
+wms_auth_password$$$ 				$$$
+wms_auth_type$$$ 					$$$
+wms_auth_username$$$ 				$$$
+wms_authorityurl_href$$$ 				$$$
+wms_authorityurl_name$$$ 				$$$
+wms_bbox_extended$$$ 				$$$
+wms_bgcolor$$$ 					$$$
+wms_cache_to_disk$$$ 				$$$
+wms_city$$$ 					$$$If provided must also then provide wms_address, wms_addresstype, wms_stateorprovince, wms_postcode, and wms_country)
+wms_connectiontimeout$$$ 				$$$
+wms_contactelectronicmailaddress$$$ 		$$$contact Email address.
+wms_contactfacsimiletelephone$$$ 			$$$contact facsimile telephone number.
+wms_contactorganization$$$ 			$$$
+wms_contactperson$$$ 				$$$
+wms_contactposition$$$ 				$$$
+wms_contactvoicetelephone$$$ 			$$$contact voice telephone number.
+wms_context_fid$$$ 				$$$the feature id of the context. Set to 0 when saving if not specified.
+wms_context_version$$$ 				$$$the version of the map context specification.
+wms_country$$$ 					$$$If provided must also then provide wms_address, wms_city, wms_stateorprovince, wms_postcode, and wms_addresstype.
+wms_dataurl_format$$$ 				$$$Format of the online resource where data corresponding to the layer can be found.
+wms_dataurl_href$$$ 				$$$Link to an online resource where data corresponding to the layer can be found.
+wms_denied_ip_list$$$ 				$$$
+wms_descriptionurl_format$$$ 			$$$Format of the webpage which contains relevant information to the view.
+wms_descriptionurl_href$$$ 			$$$Reference to a webpage which contains relevant information to the view.
+wms_dimension$$$ 					$$$Current dimension used.
+wms_dimension_[dimension_name]_default$$$ 		$$$Default dimension value. MapServer will check for wms_time and wms_timedefault metadata when this is not specified. [dimension_name] = the name of the dimension.
+wms_dimension_[dimension_name]_multiplevalues$$$ 	$$$Multiple dimension values. [dimension_name] = the name of the dimension.
+wms_dimension_[dimension_name]_nearestvalue$$$ 	$$$Nearest dimension value. The default value is 0. [dimension_name] = the name of the dimension.
+wms_dimension_[dimension_name]_units$$$ 		$$$Units for the dimension values. The default value is ISO8601. [dimension_name] = the name of the dimension.
+wms_dimension_[dimension_name]_unitsymbol$$$ 	$$$Symbol for dimension units. The default value is t. [dimension_name] = the name of the dimension.
+wms_dimension_[dimension_name]_uservalue$$$ 	$$$User dimension value. MapServer will check for wms_time and wms_timedefault metadata when this is not specified. [dimension_name] = the name of the dimension.
+wms_dimensionlist$$$ 				$$$List of available dimensions.
+wms_enable_request$$$ 				$$$
+wms_encoding$$$ 					$$$
+wms_exceptions_format$$$ 				$$$
+wms_exclude_items$$$ 				$$$
+wms_extent$$$ 					$$$
+wms_feature_info_mime_type$$$ 			$$$
+wms_fees$$$ 					$$$
+wms_force_separate_request$$$ 			$$$
+wms_format$$$ 					$$$Current format used.
+wms_formatlist$$$ 					$$$List of available formats for this layer.
+wms_getcapabilities_version$$$ 			$$$
+wms_getfeatureinfo_formatlist$$$ 			$$$
+wms_getlegendgraphic_formatlist$$$ 		$$$
+wms_getmap_formatlist$$$ 				$$$
+wms_group_abstract$$$ 				$$$
+wms_group_title$$$ 				$$$
+wms_identifier_authority$$$ 			$$$
+wms_identifier_value$$$ 				$$$
+wms_include_items$$$ 				$$$
+wms_keywordlist$$$ 				$$$A comma-separated list of keywords or keyword phrases to help catalog searching.
+wms_keywordlist_[vocabulary_name]_items$$$ 	$$$vocabulary_name$$$ 					$$$
+wms_keywordlist_vocabulary$$$ 			$$$
+wms_languages$$$ 					$$$
+wms_latlonboundingbox$$$ 				$$$
+wms_layer_group$$$ 				$$$
+wms_layerlimit$$$ 					$$$
+wms_logourl_format$$$ 				$$$Format of the context logo.
+wms_logourl_height$$$ 				$$$Height of the context logo.
+wms_logourl_href$$$ 				$$$Location of the context logo.
+wms_logourl_width$$$ 				$$$Width of the context logo.
+wms_metadataurl_format$$$ 				$$$Format of the online resource where descriptive metadata of the corresponding layer can be found.
+wms_metadataurl_href$$$ 				$$$Link to an online resource where descriptive metadata of the corresponding layer can be found.
+wms_metadataurl_type$$$ 				$$$
+wms_name$$$ 					$$$Name of the WMS layer on the server.
+wms_nonsquare_ok$$$ 				$$$
+wms_onlineresource$$$ 				$$$Required URL to access the server.
+wms_opaque$$$ 					$$$
+wms_postcode$$$ 					$$$If provided must also then provide wms_address, wms_city, wms_stateorprovince, wms_addresstype, and wms_country.
+wms_proxy_auth_type$$$ 				$$$
+wms_proxy_host$$$ 					$$$
+wms_proxy_password$$$ 				$$$
+wms_proxy_port$$$ 					$$$
+wms_proxy_type$$$ 					$$$
+wms_proxy_username$$$ 				$$$
+wms_remote_sld_max_bytes$$$ 			$$$
+wms_resx$$$ 					$$$
+wms_resy$$$ 					$$$
+wms_rootlayer_abstract$$$ 				$$$
+wms_rootlayer_keywordlist$$$ 			$$$
+wms_rootlayer_title$$$ 				$$$
+wms_server_title$$$ 				$$$The title of the web map server.
+wms_server_version$$$ 				$$$The version of the web map server specification.
+wms_service_onlineresource$$$ 			$$$
+wms_sld_body$$$ 					$$$
+wms_sld_url$$$ 					$$$
+wms_srs$$$ 					$$$
+wms_stateorprovince$$$ 				$$$If provided must also then provide wms_address, wms_city, wms_addresstype, wms_postcode, and wms_country.
+wms_style$$$ 					$$$
+wms_style_[style_name]_format$$$ 			$$$
+wms_style_[style_name]_legendurl_format$$$ 	$$$Format of an image describing the style. [style_name] = the name of the style.
+wms_style_[style_name]_legendurl_height$$$ 	$$$Height of an image describing the style. [style_name] = the name of the style.
+wms_style_[style_name]_legendurl_href$$$ 		$$$Location of an image describing the style. [style_name] = the name of the style.
+wms_style_[style_name]_legendurl_width$$$ 		$$$Width of an image describing the style. [style_name] = the name of the style.
+wms_style_[style_name]_sld$$$ 			$$$URL to the SLD document of this style. [style_name] = the name of the style.
+wms_style_[style_name]_sld_body$$$ 		$$$SLD_BODY document of this style. [style_name] = the name of the style.
+wms_style_[style_name]_title$$$ 			$$$Title of the layer. [style_name] = the name of the style.
+wms_style_[style_name]_width$$$ 			$$$
+wms_stylelist$$$ 					$$$Current style used.
+wms_time$$$ 					$$$
+wms_timedefault$$$ 				$$$
+wms_timeextent$$$ 					$$$
+wms_timeformat$$$ 					$$$
+wms_timeitem$$$ 					$$$
+wms_title$$$ 					$$$(Required) A human-readable name for this Layer.
+wms_transparent$$$ 				$$$
+wms_xml$$$ 					$$$

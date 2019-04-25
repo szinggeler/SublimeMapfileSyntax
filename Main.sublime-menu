@@ -1,0 +1,19 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "id": "mapfile",
+                "caption": "Mapfile Support",
+                "children":
+                [
+                    {
+                        "command": "remove_snippet_comments",
+                        "caption": "Remove Snippet-Comments"
+                    }
+                ]
+            }
+        ]
+    }
+]
